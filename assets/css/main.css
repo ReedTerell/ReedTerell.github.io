@@ -347,7 +347,7 @@ input, select, textarea {
 		-ms-animation: overlay 1.5s 1.5s forwards;
 		animation: overlay 1.5s 1.5s forwards;
 		background-attachment: fixed, fixed;
-		background-image: url("images/elbformat-coding.gif"), url("images/overlay.svg");
+		background-image: url("images/elbformat-coding.gif"), url("images/elbformat-coding.gif");
 		background-position: top left, center center;
 		background-repeat: repeat, no-repeat;
 		background-size: auto, cover;
